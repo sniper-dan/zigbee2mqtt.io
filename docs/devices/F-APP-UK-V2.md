@@ -17,7 +17,8 @@ description: "Integrate your SmartThings F-APP-UK-V2 via Zigbee2mqtt with whatev
 
 ## Notes
 
-None
+## Pairing
+Plug in the outlet whilst holding either one of the switches on the side. Release when the blue light begins to flash. After this the device will automatically join.
 
 ## Manual Home Assistant configuration
 Although Home Assistant integration through [MQTT discovery](../integration/home_assistant) is preferred,
